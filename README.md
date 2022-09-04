@@ -1,6 +1,6 @@
-## Front-End Sinau Koding #22 - PT. Mega Giga Solusindo
+## Front-End Web Sinau Koding #22 - PT. Mega Giga Solusindo
 
-- Pelatihan Gratis Front-End Web dari Sinau Koding Academy Batch ke-22
+- Pelatihan Gratis Front-End Web Developer dari Sinau Koding Academy Batch ke-22
 - [Instagram Sinau Koding](https://www.instagram.com/sinau_koding/)
 
 ## Materi Pembelajaran
