@@ -7,7 +7,7 @@
 
 - [HTML](https://drive.google.com/file/d/1u1dWXZKy_1NisCVjRK3C1X12hL0a_GQm/view?usp=sharing)
 - [CSS Dasar](https://drive.google.com/file/d/1XPoFBLPmZFD8Dbo9mmSehmi6Ay_xqY0l/view?usp=sharing)
-- [CSS Layouting](https://drive.google.com/file/d/1rzMkYJco2cOsW1iFAwbPa6ycJJV4hHlc/view?usp=sharing)
+- [CSS Layouting](https://drive.google.com/file/d/1lNl19WWcuMqS_g43YL67BuTHxxDXAIyW/view?usp=sharing)
 - [CSS Framework](https://drive.google.com/file/d/1JfttmmnnQz01mdePtn0noGpa1cmgKIkY/view?usp=sharing)
 - [JavaScript](https://drive.google.com/file/d/1Vqf6Pq0LFUs9C4K3EQUpnhpbQOKr9w9j/view?usp=sharing)
 - [Vue JS](https://drive.google.com/file/d/1-BIMKqltAxy24d-coH3zcD-cKmevetJ-/view?usp=sharing)
